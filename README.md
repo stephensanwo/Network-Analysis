@@ -1,4 +1,4 @@
-# Network-Analysis for Risk Assessment
+# Graph Algorithms for Risk Assessment
 
 ---
 
